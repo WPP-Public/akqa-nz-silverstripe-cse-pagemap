@@ -17,4 +17,8 @@ class CsePageMapExtension extends Extension
 
         return $this->pageMapService;
     }
+
+    public function extraStatics()
+    {        
+    }
 }
