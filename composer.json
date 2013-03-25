@@ -1,6 +1,7 @@
 {
     "name": "heyday/silverstripe-cse-pagemap",
     "description": "Allows the setting of Google CSE PageMap data in templates",
+    "type": "silverstripe-module",
     "authors": [
         {
             "name": "Cam Spiers",
