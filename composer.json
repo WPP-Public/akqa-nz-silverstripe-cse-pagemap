@@ -1,0 +1,23 @@
+{
+    "name": "heyday/silverstripe-cse-pagemap",
+    "description": "Allows the setting of Google CSE PageMap data in templates",
+    "authors": [
+        {
+            "name": "Cam Spiers",
+            "email": "cameron@heyday.co.nz"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+        "symfony/class-loader": "~2.2",
+        "silverstripe/framework": "~2.4"
+    },
+    "extra": {
+        "installer-paths": {
+            "sapphire": [
+                "silverstripe/framework"
+            ]
+        }
+    }
+}
