@@ -23,6 +23,7 @@ class MyPageType extends Page implements CsePageMapInterface
         );
     }
 }
+```
 
 # Unit testing
 
